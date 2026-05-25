@@ -137,3 +137,34 @@ li a:hover {
 }
 	
 /* ART PAGE SPECIFIC */
+
+.artbody {
+	background-image:url(https://i.imgur.com/autwMlN.png);
+	background-repeat: repeat-y;
+	background-size: 100%;
+} 	
+.bottom {
+	width:100%;
+	height:auto;
+}
+.artstuff {text-align: center}
+.artfight {
+	width: 24%;
+	height: auto;
+}
+.hk {
+	width:24%;
+		height:auto;
+}
+.hk1 {
+	width:20%;
+		height:auto;
+}
+.ultrakill{
+	width:25%;
+		height:auto;
+}
+.reanimal{
+	width:25%;
+		height:auto;
+}
