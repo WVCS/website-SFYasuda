@@ -183,3 +183,24 @@ li a:hover {
 	width:25%;
 		height:auto;
 }
+/* SOS PAGE SPECIFIC */
+
+.sos {
+background-image: linear-gradient(to bottom, #e6dec3, #DCC292);	
+}
+h1 {text-align: center}
+
+.bottoms {
+	width:109%;
+		height:auto;
+}
+.mrn1 {
+	position:absolute;
+	width:30%;
+	height:auto;
+	right:20%;
+}
+.sosborder {
+	display:block;
+	height:150px;
+}
