@@ -194,6 +194,10 @@ h1 {text-align: center}
 	width:109%;
 		height:auto;
 }
+.sosholder {
+	width:100%;
+		overflow:hidden;
+}
 .mrn1 {
 	position:absolute;
 	width:30%;
