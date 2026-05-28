@@ -118,6 +118,15 @@ li a:hover {
   background-color: #555555;
   color: white;
 }
+.bottom {
+	position: absolute;
+    bottom: -1200px;
+    left: 0;
+	display: block;
+	width:100%;
+		height:auto;
+	z-index: 1
+}
 
 /* PROJECT PAGE SPECIFIC */
 .projeks {
@@ -131,10 +140,7 @@ li a:hover {
 	background-size: 100%;
 	
 }
-.bottom {
-	width:100%;
-		height:auto;
-}
+
 .projee {
 	font-size: 25px ;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
