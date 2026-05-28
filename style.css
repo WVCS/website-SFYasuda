@@ -1,6 +1,10 @@
 @charset "utf-8";
 .main {
 	background-color: #8B9B8E;
+	background-image:url('https://raw.githubusercontent.com/WVCS/website-SFYasuda/refs/heads/main/Backgrounds/mainbkgd.png');
+	background-repeat: repeat-y;
+	background-size: 100%;
+	
 }
 .hornet {
     display: flex;          
