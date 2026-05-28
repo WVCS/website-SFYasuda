@@ -118,7 +118,7 @@ li a:hover {
   background-color: #555555;
   color: white;
 }
-.bottom {
+.bottomm {
 	position: absolute;
     bottom: -1200px;
     left: 0;
@@ -127,7 +127,12 @@ li a:hover {
 		height:auto;
 	z-index: 1
 }
-
+.bottom {
+	display: block;
+	width:100%;
+		height:auto;
+	z-index: 1
+}
 /* PROJECT PAGE SPECIFIC */
 .projeks {
     background-color: #FFFFFF;
