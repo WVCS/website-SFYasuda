@@ -36,10 +36,12 @@
 		</div>
 <script>
 function moveImage() {
-	const needle = document.querySelector('.needle');
-    needle.classList.toggle('moved');
-	const reveal = document.querySelector('.reveal');
-    reveal.classList.toggle('visible');
+		const needle = document.querySelector('.needle');
+    needle.classList.toggle('moved'); 	
+	const reveals = document.querySelectorAll('.reveal');
+	reveals.forEach(reveal => {
+        reveal.classList.toggle('visible');
+    });
 }
 	//this was painful to put together
 </script>
